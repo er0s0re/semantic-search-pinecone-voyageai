@@ -35,8 +35,6 @@ Buat yang mau cobain, langsung gas aja!🔥
         PINECONE_ENVIRONMENT=your_pinecone_environment
         ```
 
-    *   Jangan lupa, file `.env` jangan diupload ke GitHub ya! 
-
 4.  **Jalankan Notebook**:
 
     *   Buka `embedding.ipynb` pake Jupyter Notebook atau VS Code.
@@ -75,13 +73,6 @@ Buat yang mau cobain, langsung gas aja!🔥
 ## ️🖼️ Visualisasi Data
 
 Kita juga bisa liat visualisasi embedding pake t-SNE. Cek aja di notebook buat liat grafiknya! 
-
----
-
-## 🚨 Catatan Penting
-
-*   **Jangan Upload `.env`**: File ini berisi API keys, jangan sampai bocor!
-*   **PDF Tetap Lokal**: File PDF (`datasheet.pdf`) gak diupload ke repo buat jaga privasi.
 
 ---
 
